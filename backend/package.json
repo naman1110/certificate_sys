@@ -1,0 +1,31 @@
+{
+  "name": "certi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security",
+    "image-js": "^0.35.4",
+    "jimp": "^0.22.8",
+    "jsqr": "^1.4.0",
+    "mime": "^3.0.0",
+    "multer": "^1.4.5-lts.1",
+    "node-zxing": "^0.1.4",
+    "path": "^0.12.7",
+    "pdf-lib": "^1.17.1",
+    "pdf.js-extract": "^0.2.1",
+    "pug": "^3.0.2",
+    "qr-image": "^3.2.0",
+    "qrcode": "^1.5.3",
+    "qrcode-reader": "^1.0.4",
+    "sha256": "^0.2.0",
+    "web3": "^1.8.1"
+  }
+}
